@@ -1,0 +1,30 @@
+.task-container {
+    text-align: center;
+  }
+  
+  .task-form {
+    margin-bottom: 1rem;
+  }
+  
+  .task-form .project-select,
+  .task-form input[type="text"],
+  .task-form input[type="number"],
+  .task-form textarea {
+    width: 300px;
+    padding: 0.5rem;
+    font-size: 16px;
+  }
+  
+  .task-form textarea {
+    height: 80px;
+  }
+  
+  .task-form button {
+    padding: 0.5rem 1rem;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
